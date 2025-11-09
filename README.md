@@ -171,4 +171,8 @@ git config --global http.proxy http://proxy:porta
 ## 8. Próximos passos
 
 - Adicionar detecção de acoplamento entre módulos.
+
 - Exportar resultados em CSV ou JSON.
+
+- Adicionar pelo menos 10 testes de unidade.
+Os testes devem ser executados automaticamente via GitHub Actions.
